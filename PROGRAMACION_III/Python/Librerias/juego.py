@@ -1,6 +1,5 @@
 import random
 
-def cargar ()
 def cargar():
     lista=[]
     for x in range(10):
